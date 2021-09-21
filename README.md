@@ -20,13 +20,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them.
 
-```
-[NodeJS](https://nodejs.org/en/)
-```
 
-```
+[NodeJS](https://nodejs.org/en/)
+
+
+
 [Yarn](https://yarnpkg.com/)
-```
+
 
 ### Installing
 
@@ -46,3 +46,5 @@ Demo the app by running `yarn start`
 ## Usage <a name = "usage"></a>
 
 The HTML file must be running on a separate server or read as an external file.
+
+[We write cool software](https://evolvingsoftware.io)
